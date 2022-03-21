@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+  }
+  h1 {
+    font-family: "lobster", cursive;
+    text-align: center;
+    color: rgb(156, 33, 33);
+  }
+  p {
+    /*estilo dos paragrafos*/
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    color: rgb(107, 31, 31);
+  }
+  a {
+    /*estilo do link*/
+    color: rgb(156, 1, 78);
+    text-decoration: none;
+  }
+  a:hover {
+    /*estilo do link quando passa o cursor por cima*/
+    text-decoration: underline;
