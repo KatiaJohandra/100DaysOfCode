@@ -1,0 +1,29 @@
+h1 {
+  /*estilo do cabeçalho*/
+  font-family: "Lobster", cursive;
+  text-align: center;
+  color: rgb(156, 33, 33);
+}
+
+p {
+  /*estilo dos paragrafos*/
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  color: rgba(107, 31, 31, 0.603);
+}
+
+a {
+  /*estilo do link*/
+  color: rgb(156, 1, 78);
+  text-decoration: none;
+}
+a:hover {
+  /*estilo do link quando passa o cursor por cima*/
+  text-decoration: underline;
+}
+
+#todays-challenge {
+  color: rgb(170, 96, 83);
+  font-weight: bold;
+  font-size: 52px;
+}
